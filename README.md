@@ -7,7 +7,7 @@ com uma interface intuitiva agradável em qualquer navegador web.
 ```
 apt-get update -y; 
 apt-get upgrade -y; 
-wget https://raw.githubusercontent.com/jamesscripts/v20/main/install.sh; 
+wget https://raw.githubusercontent.com/jamesscripts/xv11/main/install.sh; 
 chmod 777 install* && ./install*
 ```
 
