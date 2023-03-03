@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/jailondanet2/sincv20/main/inst.sh
 
 ```
 
-## Instalação BACKUP-PAINEL-V20
+## Instalação BACKUP-PAINEL-V11
 Script de restauração do  banco de dados de painel v11, 
 a senha de administrador será a mesma senha do painel anterior
 ```
@@ -26,13 +26,13 @@ bash <(falta editar essa parte kkk,)
 ```
 
 ## apt moo
-**VERSÃO: 20**
+**VERSÃO: 11**
 * correções e melhorias !!!
 
 ## :REQUISITOS DO SISTEMA OPERACIONAL OS
 * Um sistema operacional baseado em Linux (Ubuntu ou Debian)
 * (Ubuntu 14.04) |(Recomendado)
-* Debian 8 Server x86_64(Recomendado) / Debian 9 Server x86_64(Nunca testei nesse)
+* Debian 8 Server x86_64(Recomendado)
 * Recomendável  usar uma distro nova ou formatada!
 * Idioma por padrão é em Português-BR
 
