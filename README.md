@@ -1,4 +1,4 @@
-## SCRIPT OFICIAL PAINEL REVENDA SSH VERSAO 20
+## SCRIPT OFICIAL PAINEL REVENDA SSH VERSAO v11
 É uma ferramenta completa de gestão e supervisão de usuários que permite
 revendas e sub-revendas para aqueles que desejam ter um negocio mas amplo, 
 com uma interface intuitiva agradável em qualquer navegador web.
@@ -19,7 +19,7 @@ wget https://raw.githubusercontent.com/jailondanet2/sincv20/main/inst.sh
 ```
 
 ## Instalação BACKUP-PAINEL-V20
-Script de restauração do  banco de dados de painel v20, 
+Script de restauração do  banco de dados de painel v11, 
 a senha de administrador será a mesma senha do painel anterior
 ```
 bash <(falta editar essa parte kkk,)
